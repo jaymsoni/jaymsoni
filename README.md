@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jaymsoni
 - 👀 I’m interested in Data science & Artificial Intilegince
 - 🌱 I’m currently learning Data science
+- 🤗 HuggingFace Acc link : https://huggingface.co/jaysoni
 - 📫 How to reach me Email - jaymsoni.jsm@gmail.com
 
 <!---
