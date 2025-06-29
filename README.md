@@ -6,11 +6,10 @@ Currently working on RAG, MLOps, and Conversational AI projects at a fast-growin
 ---
 
 ## 🚀 Tech Stack
-- **Languages**: Python, JavaScript, Bash
-- **AI/ML**: PyTorch, TensorFlow, Scikit-Learn, Transformers (HuggingFace), LangChain
-- **MLOps**: FastAPI, Docker, AWS Batch, Bedrock, Qdrant, Postgres
+- **AI/ML**: PyTorch, TensorFlow, Scikit-Learn, Transformers (HuggingFace), LangChain, LangSmith, LangGraph
+- **MLOps**: FastAPI, Docker, AWS Batch, Bedrock, Qdrant, Postgres, BentoML
 - **DevTools**: Git, VSCode, Streamlit, Notion, n8n
-- **Currently Learning**: AIOps, GenAI Pipelines, RAG Optimization
+- **Currently Learning**: AIOps, GenAI Pipelines, RAG Optimization, LLMops
 
 ---
 
