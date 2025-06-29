@@ -1,6 +1,6 @@
 # Hi, I'm Jay 👋
 
-I'm an AI Engineer/Data Scientist passionate about building intelligent systems and automation tools.  
+I'm an AI Engineer/Data Scientist passionate about building data intelligent systems and automation tools.  
 Currently working on RAG, MLOps, and Conversational AI projects at a fast-growing company.
 
 ---
